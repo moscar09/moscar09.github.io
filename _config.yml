@@ -1,6 +1,6 @@
 # Site settings
 title: Hello! I'm Oscar
-description: A blog about lorem ipsum dolor sit amet
+description: Hello! I'm Oscar, multi-lingual software developer and CTO at Shoparize
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
@@ -11,6 +11,7 @@ user_title: CTO @ Shoparize
 email: hello@oscar.sh
 #twitter_username: lorem_ipsum
 github_username:  moscar09
+linkedin_url: https://www.linkedin.com/in/oscar-m%C4%83rginean-8483a259/
 #gplus_username:  lorem_ipsum
 
 # Google-analytics
